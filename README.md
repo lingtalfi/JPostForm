@@ -132,6 +132,10 @@ array(3) {
 History Log
 =============
 
+- 1.0.1 -- 2020-12-04
+
+    - Add lpi-deps.byml file
+
 - 1.0.0 -- 2019-12-10
 
     - initial commit
